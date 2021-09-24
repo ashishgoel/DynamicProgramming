@@ -9,7 +9,15 @@ Multistage Graph Theory: https://www.youtube.com/watch?v=9iE9Mj4m8jk
     \     / 6
    2 \   /
       (2)
-
+      
+Output:
+Hello World
+node = 0 --> cost = 7 dest = 1
+node = 1 --> cost = 4 dest = 3
+node = 2 --> cost = 6 dest = 3
+node = 3 --> cost = 0 dest = 3
+Finding shortest path...
+0-->1-->3
 *******************************************************************************/
 
 public class MultistageGraph
